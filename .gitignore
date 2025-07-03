@@ -1,0 +1,19 @@
+# Geçici dosyalar
+*.log
+*.tmp
+*.bak
+
+# IDE ve editör klasörleri
+.vscode/
+.idea/
+
+# Sistem dosyaları
+.DS_Store
+Thumbs.db
+
+# Node projelerinde (ileride eklersek)
+node_modules/
+
+# Gizli dosyalar
+.env
+
